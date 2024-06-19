@@ -1,6 +1,6 @@
 
 
-public class Opps2 {
+public class Oops2 {
     public static void main(String args[]){
         BankAccount myAc = new BankAccount();
         myAc.username ="Divyanshu";
