@@ -1,4 +1,4 @@
-public class Opps3{
+public class Oops3{
     public static void main(String[] args) {
         Pen p1 = new Pen();
         p1.Setcolor("red");
